@@ -1,14 +1,11 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# HabitFlow
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+HabitFlow is a personalized habit tracking app that helps keep users engaged by offering AI insights into their daily routine.
 
 ## UX Team Members
 
-* **[!!!Person A name!!!](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
-* **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
+* **[Sean Minami](https://usabilityengineering.github.io/portfolio-wikey500/)** - !!!List of Person A's primary contributions!!!
+* **[Riley Johnson](https://usabilityengineering.github.io/portfolio-csucrljohnson1/)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
 
