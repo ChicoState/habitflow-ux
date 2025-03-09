@@ -4,8 +4,8 @@ HabitFlow is a personalized habit tracking app that helps keep users engaged by 
 
 ## UX Team Members
 
-* **[Sean Minami](https://usabilityengineering.github.io/portfolio-wikey500/)** - !!!List of Person A's primary contributions!!!
-* **[Riley Johnson](https://usabilityengineering.github.io/portfolio-csucrljohnson1/)** - !!!List of Person B's primary contributions!!!
+* **[Sean Minami](https://usabilityengineering.github.io/portfolio-wikey500/)** - Sketch, Persona and Scenario 1, Phase 1 Report
+* **[Riley Johnson](https://usabilityengineering.github.io/portfolio-csucrljohnson1/)** - Sketch design, Persona and Scenario 2, Phase 1 report
 
 # User-Centered Design Artifacts
 
@@ -18,7 +18,11 @@ HabitFlow is a personalized habit tracking app that helps keep users engaged by 
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+* We determined that the habit tracking portion of the app should be accessible in as few clicks as possible. Since users may be tracking multiple habits, updating the count of a habit could become tedious if it is too complex.
+
+* One of the competitors we analyzed was well put together from a big picture point of view, but some smaller interactions were confusing.  Error messages were vague and offered no suggestions for fixing the problem, and there was no way to reset a habit's count without deleting the habit and remaking it.
+
+* Some sort of a reward for completing good habits/tasks, and a penalty for completing bad habits could help incentivize users to keep working towards their goals and keep them engaged with the app.
 
 [Full phase I report](phaseI/)
 
