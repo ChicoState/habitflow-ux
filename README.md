@@ -4,8 +4,8 @@ HabitFlow is a personalized habit tracking app that helps keep users engaged by 
 
 ## UX Team Members
 
-* **[Sean Minami](https://usabilityengineering.github.io/portfolio-wikey500/)** - Sketch, Persona and Scenario 1, Phase 1 Report
-* **[Riley Johnson](https://usabilityengineering.github.io/portfolio-csucrljohnson1/)** - Sketch design, Persona and Scenario 2, Phase 1 report
+* **[Sean Minami](https://usabilityengineering.github.io/portfolio-wikey500/)** - Sketch, Persona and Scenario 1, Phase 1 & 2 Report
+* **[Riley Johnson](https://usabilityengineering.github.io/portfolio-csucrljohnson1/)** - Sketch design, Persona and Scenario 2, Phase 1 & 2 report
 
 # User-Centered Design Artifacts
 
@@ -30,9 +30,13 @@ HabitFlow is a personalized habit tracking app that helps keep users engaged by 
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+* Users want to be able to check their progress quickly
 
-[Full phase II report](phaseII/)
+* Users want to be reminded to complete unfinished tasks/habits
+
+* Users would like to be rewarded for completing habits/tasks.
+
+[Full phase II report](phaseII/README.md)
 
 # Phase III: Prototypes and User Testing
 
@@ -40,4 +44,4 @@ HabitFlow is a personalized habit tracking app that helps keep users engaged by 
 
 !!!Put phase II Executive Summary here!!!
 
-[Full phase III report](phaseIII/)
+[Full phase III report](phaseIII/README.md)

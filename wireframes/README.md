@@ -1,7 +1,7 @@
 # Wireframes
 
 ![Login Screen](frames/LoginRegister%20Screen.png)
-When first opening the app, the user will be greeted by the login page.  Users can enter their email and password, then click login if they have used the app before, or click register to make an account and login.
+When first opening the app, the user will be greeted by the login page.  Users can enter their email and password, then click login if they have used the app before, or click register to make an account and login.  After logging in, they will be taken to the home page.
 
 ![Home Page](frames/Home%20Page.png)
 HabitFlow's home page keeps tracked habits at the top of the page, for easy access when updating a habit counter, and to see habit progress at a glance.  In the middle of the page are upcoming tasks that the user has scheduled.  On the upper right are two buttons to move to the help page and the settings page respectively.  On the bottom right there is a button to start tracking a new task or habit.
