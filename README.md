@@ -12,7 +12,7 @@ HabitFlow is a personalized habit tracking app that helps keep users engaged by 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototypes/)
+* [Prototype](prototypes/HabitFlowPrototype.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
